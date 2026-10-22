@@ -28,5 +28,5 @@ aiosmtplib>=3.0
 httpx>=0.27
 
 # Tests (add when you start testing, against PostgreSQL)
-# pytest
-# pytest-cov
+pytest
+pytest-cov
